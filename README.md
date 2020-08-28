@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 clone the repository into you local
 
-`git@github.com:domosafety/domo_react_starter.git`
+`git clone git@github.com:domosafety/domo_react_starter.git`
 
-install dependancies 
+cd into the new dir and install dependencies  with either npm or yarn
 
 `npm install` or `yarn install`
 
