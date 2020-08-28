@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-#DOMO REACT STARTER
+# DOMO REACT STARTER
 
 ## Installation
 clone the repository into you local
